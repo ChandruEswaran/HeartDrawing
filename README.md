@@ -16,7 +16,7 @@ This is a simple Python project that uses the **`turtle`** graphics library and 
 - `turtle` (comes built-in with Python)
 - `math` (comes built-in with Python)
 
-*No extra installation needed...*
+__*No extra installation needed...*__
 
 ---
 
