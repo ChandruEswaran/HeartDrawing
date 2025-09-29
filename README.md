@@ -22,4 +22,13 @@ This is a simple Python project that uses the **`turtle`** graphics library and 
 
 ## Project Preview
 
-[Click here to watch the demo](demo.mp4)
+[Download video](demo.mp4)
+
+![Demo - GIF](demo.gif.gif)
+
+---
+
+## Notes for you:  
+
+- Keep your **`demo.mp4`** in repo or GitHub Releases.  
+- Convert your video into **`demo.gif`** so it plays inline.  
